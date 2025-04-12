@@ -1,4 +1,4 @@
-# Uyir Smart Traffic Signal
+# Smart Traffic Signal
 
 A smart traffic management system that uses computer vision and AI to optimize traffic flow and prioritize emergency vehicles.
 
