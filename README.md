@@ -80,5 +80,8 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 ---
 
 
-https://github.com/user-attachments/assets/fa4d65cd-58c2-466d-84b8-a5df47c6b98f
+
+https://github.com/user-attachments/assets/c50cde28-52df-40b9-bbd3-82aa0327b66f
+
+
 
