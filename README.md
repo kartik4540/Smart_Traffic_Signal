@@ -71,9 +71,14 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 
 🚀 Usage
 
-Vehicle Detection: Run the vehicle detection module with a connected camera or video feed.
+-Vehicle Detection: Run the vehicle detection module with a connected camera or video feed.
 
-Traffic Signal Control: The controller script dynamically adjusts signal timings based on input from the vehicle detection module.
+-Traffic Signal Control: The controller script dynamically adjusts signal timings based on input from the vehicle detection module.
 
-Ambulance Detection: Emergency vehicles are prioritized when detected by the system.
+-Ambulance Detection: Emergency vehicles are prioritized when detected by the system.
+
+---
+
+
+https://github.com/user-attachments/assets/fa4d65cd-58c2-466d-84b8-a5df47c6b98f
 
