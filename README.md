@@ -9,7 +9,8 @@ A comprehensive AI-powered traffic management solution that leverages **computer
 The **Smart Traffic Signal** system is designed to automate and optimize traffic signal control by analyzing real-time traffic density and giving priority to emergency vehicles such as ambulances. It consists of multiple integrated components that work together to provide an intelligent and responsive traffic control infrastructure.
 
 ## Architecture Diagram
-![image](https://github.com/user-attachments/assets/d4ca0017-a53f-4812-a321-21bedc4b58d8)
+![image](https://github.com/user-attachments/assets/6c9a998d-f34f-4882-b459-c422e9967649)
+
 
 ---
 
