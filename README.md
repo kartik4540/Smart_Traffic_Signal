@@ -1,16 +1,19 @@
-# 🚦 Smart Traffic Signal System
+# Smart Traffic Signal System
 
 A comprehensive AI-powered traffic management solution that leverages **computer vision**, **machine learning**, and **real-time data processing** to dynamically control traffic flow, detect emergency vehicles, and ensure road safety through a unified web interface.
 
 ---
 
-## 📌 Overview
+## Overview
 
 The **Smart Traffic Signal** system is designed to automate and optimize traffic signal control by analyzing real-time traffic density and giving priority to emergency vehicles such as ambulances. It consists of multiple integrated components that work together to provide an intelligent and responsive traffic control infrastructure.
 
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/d4ca0017-a53f-4812-a321-21bedc4b58d8)
+
 ---
 
-## 🧩 Components
+## Components
 
 ### 1. **Traffic Signal Control System**
 - Core control logic for signal operations
@@ -39,7 +42,7 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - ✅ **Real-Time Traffic Monitoring**
 - 🚑 **Emergency Vehicle Priority System**
@@ -49,7 +52,7 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Category             | Technologies                                             |
 |----------------------|----------------------------------------------------------|
@@ -62,14 +65,14 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/kartik4540/Smart_Traffic_Signal
 ---
 
-🚀 Usage
+ Usage
 
 -Vehicle Detection: Run the vehicle detection module with a connected camera or video feed.
 
