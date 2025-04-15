@@ -57,7 +57,7 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 | **Computer Vision**  | OpenCV                                                   |
 | **Machine Learning** | Scikit-learn, TensorFlow/Keras (if used for models)      |
 | **Web Development**  | HTML, CSS, JavaScript                                    |
-| **Backend (optional)** | Flask/Django (if web backend is used)                |
+| **Backend ** | Flask              |
 | **Data Processing**  | Pandas, NumPy                                            |
 
 ---
