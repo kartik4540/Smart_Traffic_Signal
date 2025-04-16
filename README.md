@@ -2,6 +2,7 @@
 
 A comprehensive AI-powered traffic management solution that leverages **computer vision**, **machine learning**, and **real-time data processing** to dynamically control traffic flow, detect emergency vehicles, and ensure road safety through a unified web interface.
 
+Our solution aims to leverage the safety on busy traffic roads by modifying traffic lights and cameras.
 ---
 
 ## Overview
