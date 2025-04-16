@@ -13,6 +13,10 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 
 
 ---
+## DEMO:
+
+-https://drive.google.com/file/d/1tguVPZsqqwmw4Qe-F5MrNu-5Jp3nM8pT/view?usp=sharing
+---
 
 ## Components
 
@@ -87,9 +91,7 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 ---
 
 
-DEMO:
 
--https://drive.google.com/file/d/1tguVPZsqqwmw4Qe-F5MrNu-5Jp3nM8pT/view?usp=sharing
 
 
 
