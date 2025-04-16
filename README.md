@@ -65,6 +65,9 @@ The **Smart Traffic Signal** system is designed to automate and optimize traffic
 | **Data Processing**  | Pandas, NumPy                                            |
 
 ---
+## Benching Metrics
+![image](https://github.com/user-attachments/assets/83640b45-3b26-4f31-9537-320002c348be)
+
 
 ## Installation
 
